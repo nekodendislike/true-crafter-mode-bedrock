@@ -112,7 +112,9 @@
         "minecraft:equipment": {
           "table": "loot_tables/entities/zombie_equipment.json"
         }
-      } 
+      },
+      "minecraft:can_power_jump: {
+      }
     },
 
     "components": {
